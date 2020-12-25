@@ -211,7 +211,7 @@
   <key>windowCornerRadius</key>
   <integer>10</integer>
   <key>windowDefaultWidth</key>
-  <integer>470</integer>
+  <integer>520</integer>
   <key>windowDefaultVerticalPosition</key>
   <real>1</real>
   <key>windowHasInnerShadow</key>
