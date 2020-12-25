@@ -206,6 +206,8 @@
   <integer>13</integer>
   <key>windowBackgroundColor</key>
   <string>#363543</string>
+  <key>windowBackgroundColorIsDark</key>
+  <true/>
   <key>windowCornerRadius</key>
   <integer>10</integer>
   <key>windowDefaultWidth</key>
@@ -220,7 +222,5 @@
   <integer>300</integer>
   <key>windowShadowStyle</key>
   <integer>6</integer>
-  <key>windowBackgroundColorIsDark</key>
-  <true/>
 </dict>
 </plist>
